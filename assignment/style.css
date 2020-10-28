@@ -40,6 +40,7 @@ footer p {
   text-align: center;
   font-size: 1.3rem;
 }
+
 /* Put a border around your image */
 img {
   height: 350px;
@@ -50,7 +51,6 @@ img {
 }
 
 /* Change the font-family of your list */
-
 ul {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: #f0f0f0;
